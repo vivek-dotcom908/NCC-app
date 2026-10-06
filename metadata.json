@@ -1,0 +1,6 @@
+{
+  "name": "NCC Employee Recruitment Portal",
+  "description": "Enterprise recruitment and automated vacancy management system for NCC projects across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
